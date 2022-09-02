@@ -49,12 +49,12 @@ footer{
     padding: 10px;
 }
 section{
-    padding-top: 10vh;
-    padding-bottom: 10vh;
+    padding-top: 22px;
+    padding-bottom: 3vh;
     line-height: 2em;
     padding-left: 30px;
     font-family: var(--fonte3);
-    font-size: 1.2rem;
+    font-size: 1.4rem;
 }
 section.normal{
     background-color: white;
@@ -84,5 +84,6 @@ section#img02{
     background-size: cover;
 }
 section p{
-    padding-bottom: 2em;
+    padding-bottom: 10px;
+    
 }
